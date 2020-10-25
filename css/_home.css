@@ -1,0 +1,18 @@
+.col-md-6 .col-lg-3 {
+	margin: 15px;
+	border-radius: 10px;
+	padding: 1.5rem 2rem;
+	background-color: var(--background-color);
+	display: flex;
+	flex-direction: column;
+}
+
+.col-md-6 .col-lg-3 .white-box {
+	border-color: var(--solide-pink);
+	background-color: #ffffff;
+}
+
+.col-md-6 .col-lg-3 .pink-box {
+	border-color: #ffffff;
+	background-color: var(--solide-pink);
+}
